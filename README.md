@@ -1,16 +1,6 @@
-# tecudia_tour_guide_app
+# tour_guide_app_UI
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![page1](https://github.com/sudhan003/tecudia_tour_guide_app/assets/110588490/6a34b538-7484-4ca2-a2f9-ceb66293f00a)
+![page2](https://github.com/sudhan003/tecudia_tour_guide_app/assets/110588490/c2ae4855-2f43-4faa-9788-cba629468bd4)
